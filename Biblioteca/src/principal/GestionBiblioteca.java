@@ -25,7 +25,7 @@ public class GestionBiblioteca {
 		// == Creamos 2 libros ==
 		// ======================
 		Libro l1 = new Libro("IT", "Stephen King", 1504, 5, 0);
-		Libro l2 = new Libro("El Señor de los Anillos: La comunidad del anillo", "J.R.R. Tolkien", 547, 10, 10);
+		Libro l2 = new Libro("Los tres cerditos", "J.R.R. Tolkien", 547, 10, 10);
 
 		// Mostramos información del primer libro
 		System.out.println(l1);
